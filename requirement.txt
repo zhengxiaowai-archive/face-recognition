@@ -1,0 +1,11 @@
+blessings==1.6
+bpython==0.15
+curtsies==0.2.6
+cv2==1.0
+greenlet==0.4.9
+numpy==1.10.4
+Pygments==2.1
+requests==2.9.1
+six==1.10.0
+wcwidth==0.1.6
+wheel==0.26.0
