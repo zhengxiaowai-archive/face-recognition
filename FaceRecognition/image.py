@@ -23,7 +23,6 @@ class Image(object):
         return cv2.cvtColor(frame, code)
         
     def face_roi(self, dst_filename, rect):
-        print rect
         img = cv2.cv.LoadImage('default.png')
         cv2.cv.SetImageROI(img, rect)
         cv2.cv.SaveImage(dst_filename, img)
