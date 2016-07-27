@@ -2,3 +2,4 @@ venv/
 .DS_Store
 *.pyc
 images/*.png
+node_modules/
